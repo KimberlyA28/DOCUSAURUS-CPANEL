@@ -21,15 +21,21 @@ Este sitio web fue creado con [Docusaurus](https://docusaurus.io/), un generador
 
    ![Docusaurus Dominio](img-readme/dominio.png)
 
-3. **Menú Lateral con Iconos**  
+## **Acceso al Proyecto Online**
+
+Puedes ver la documentación completa en tu **dominio personalizado** aquí:
+
+[Visitar mi pagina de Docusaurus](https://917361748.senati.chat.pe/docusaurus/)
+
+4. **Menú Lateral con Iconos**  
    Personaliza el menú lateral añadiendo iconos para una navegación más visual. Utiliza bibliotecas de iconos como FontAwesome o Material Icons para mejorar la estética del menú lateral.
 
    ![Menú Lateral con Iconos](img-readme/iconos.png)
 
-4. **Personalizar los Estilos (que no se vea que es Docusaurus)**  
+5. **Personalizar los Estilos (que no se vea que es Docusaurus)**  
    Modifica los estilos CSS y el diseño predeterminado de Docusaurus para darle un aspecto único a tu sitio. Esto puede incluir cambiar colores, fuentes, y el layout para que el sitio no parezca un proyecto genérico de Docusaurus.
 
-5. **Contenido:**
+6. **Contenido:**
    - **Opción 1: Manual de Uso del Inspector de Elementos**  
      Un manual práctico que te ayudará a comprender cómo usar el inspector de elementos en tu navegador para depurar y modificar el contenido de una página web.
      
