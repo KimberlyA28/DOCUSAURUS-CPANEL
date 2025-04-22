@@ -25,7 +25,7 @@ Este sitio web fue creado con [Docusaurus](https://docusaurus.io/), un generador
 
 Puedes ver la documentación completa en tu **dominio personalizado** aquí:
 
-[Visitar mi pagina de Docusaurus](https://917361748.senati.chat.pe/docusaurus/)
+[Visitar mi pagina de Docusaurus en CPANEL aqui](https://917361748.senati.chat.pe/docusaurus/)
 
 4. **Menú Lateral con Iconos**  
    Personaliza el menú lateral añadiendo iconos para una navegación más visual. Utiliza bibliotecas de iconos como FontAwesome o Material Icons para mejorar la estética del menú lateral.
