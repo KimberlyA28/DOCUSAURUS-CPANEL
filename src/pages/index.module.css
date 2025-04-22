@@ -1,0 +1,50 @@
+.heroBanner {
+  padding: 5rem 0;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+  background-color: #af7fd4;
+  color: #34495e;
+  border-bottom: 1px solid #e0e0e0;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+@media screen and (max-width: 996px) {
+  .heroBanner {
+    padding: 2rem;
+  }
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1.5rem;
+}
+
+button {
+  padding: 12px 24px;
+  font-size: 16px;
+  background-color: #e74c3c;
+  color: white;
+  border: none;
+  border-radius: 30px;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #c0392b;
+}
+
+[data-theme='dark'] .heroBanner {
+  background-color: #421818;
+  color: #ecf0f1;
+}
+
+[data-theme='dark'] button {
+  background-color: #c0392b;
+}
+
+[data-theme='dark'] button:hover {
+  background-color: #e74c3c;
+}
